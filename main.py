@@ -3,7 +3,7 @@ from random import randint, shuffle
 
 root = Tk()
 root.title('Secure Password Generator')
-root.geometry("500x150")
+root.geometry("700x170")
 root.resizable(False, False)
 
 
